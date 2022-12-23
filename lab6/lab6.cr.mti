@@ -1,0 +1,219 @@
+/h/tlight01/EE126/labs/lab6/mux5.vhd {1 {vcom -work work -2008 -explicit -vopt -stats=none /h/tlight01/EE126/labs/lab6/mux5.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity MUX5
+-- Compiling architecture Behavioral of MUX5
+
+} {} {}} /h/tlight01/EE126/labs/lab6/3mux64.vhd {1 {vcom -work work -2008 -explicit -vopt -stats=none /h/tlight01/EE126/labs/lab6/3mux64.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity MUX3_64
+-- Compiling architecture Behavioral of MUX3_64
+
+} {} {}} /h/tlight01/EE126/labs/lab6/registers_p1.vhd {1 {vcom -work work -2008 -explicit -vopt -stats=none /h/tlight01/EE126/labs/lab6/registers_p1.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity registers
+-- Compiling architecture behaveioral of registers
+
+} {} {}} /h/tlight01/EE126/labs/lab6/if_id_reg.vhd {1 {vcom -work work -2008 -explicit -vopt -stats=none /h/tlight01/EE126/labs/lab6/if_id_reg.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity if_id_reg
+-- Compiling architecture behaveioral of if_id_reg
+
+} {} {}} /h/tlight01/EE126/labs/lab6/fowarding_unit.vhd {1 {vcom -work work -2008 -explicit -vopt -stats=none /h/tlight01/EE126/labs/lab6/fowarding_unit.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity forwarding_unit
+-- Compiling architecture bev1 of forwarding_unit
+
+} {} {}} /h/tlight01/EE126/labs/lab6/pipelinedcpu2_tb.vhd {1 {vcom -work work -2008 -explicit -vopt -stats=none /h/tlight01/EE126/labs/lab6/pipelinedcpu2_tb.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity PipelinedCPU2_tb
+-- Compiling architecture Behavioral of PipelinedCPU2_tb
+
+} {} {}} /h/tlight01/EE126/labs/lab6/cpucontrol.vhd {1 {vcom -work work -2008 -explicit -vopt -stats=none /h/tlight01/EE126/labs/lab6/cpucontrol.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity CPUControl
+-- Compiling architecture Behavioral of CPUControl
+
+} {} {}} /h/tlight01/EE126/labs/lab6/hdu.vhd {1 {vcom -work work -2008 -explicit -vopt -stats=none /h/tlight01/EE126/labs/lab6/hdu.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity hdu
+-- Compiling architecture bev1 of hdu
+
+} {} {}} /h/tlight01/EE126/labs/lab6/alu.vhd {1 {vcom -work work -2008 -explicit -vopt -stats=none /h/tlight01/EE126/labs/lab6/alu.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity ALU
+-- Compiling architecture Behavioral of ALU
+
+} {} {}} /h/tlight01/EE126/labs/lab6/fulladder.vhd {1 {vcom -work work -2008 -explicit -vopt -stats=none /h/tlight01/EE126/labs/lab6/fulladder.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity full_adder
+-- Compiling architecture Behavioral of full_adder
+
+} {} {}} /h/tlight01/EE126/labs/lab6/lab6_imem.vhd {1 {vcom -work work -2008 -explicit -vopt -stats=none /h/tlight01/EE126/labs/lab6/lab6_imem.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity IMEM
+-- Compiling architecture behavioral of IMEM
+
+} {} {}} /h/tlight01/EE126/labs/lab6/mem_wb_reg.vhd {1 {vcom -work work -2008 -explicit -vopt -stats=none /h/tlight01/EE126/labs/lab6/mem_wb_reg.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity mem_wb_reg
+-- Compiling architecture behaveioral of mem_wb_reg
+
+} {} {}} /h/tlight01/EE126/labs/lab6/pipelinedcpu2.vhd {1 {vcom -work work -2008 -explicit -vopt -stats=none /h/tlight01/EE126/labs/lab6/pipelinedcpu2.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity PipelinedCPU2
+-- Compiling architecture Behavioral of PipelinedCPU2
+
+} {} {}} /h/tlight01/EE126/labs/lab6/lab6_dmem.vhd {1 {vcom -work work -2008 -explicit -vopt -stats=none /h/tlight01/EE126/labs/lab6/lab6_dmem.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity DMEM
+-- Compiling architecture behavioral of DMEM
+
+} {} {}} /h/tlight01/EE126/labs/lab6/ex_mem_reg.vhd {1 {vcom -work work -2008 -explicit -vopt -stats=none /h/tlight01/EE126/labs/lab6/ex_mem_reg.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity ex_mem_reg
+-- Compiling architecture behaveioral of ex_mem_reg
+
+} {} {}} /h/tlight01/EE126/labs/lab6/add.vhd {1 {vcom -work work -2008 -explicit -vopt -stats=none /h/tlight01/EE126/labs/lab6/add.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity ADD
+-- Compiling architecture Behavioral of ADD
+
+} {} {}} /h/tlight01/EE126/labs/lab6/signextend.vhd {1 {vcom -work work -2008 -explicit -vopt -stats=none /h/tlight01/EE126/labs/lab6/signextend.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity SignExtend
+-- Compiling architecture Behavioral of SignExtend
+
+} {} {}} /h/tlight01/EE126/labs/lab6/bfdu.vhd {1 {vcom -work work -2008 -explicit -vopt -stats=none /h/tlight01/EE126/labs/lab6/bfdu.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity bfdu
+-- Compiling architecture Behavioral of bfdu
+
+} {} {}} /h/tlight01/EE126/labs/lab6/control_mux.vhd {1 {vcom -work work -2008 -explicit -vopt -stats=none /h/tlight01/EE126/labs/lab6/control_mux.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity control_mux
+-- Compiling architecture Behavioral of control_mux
+
+} {} {}} /h/tlight01/EE126/labs/lab6/alucontrol.vhd {1 {vcom -work work -2008 -explicit -vopt -stats=none /h/tlight01/EE126/labs/lab6/alucontrol.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ALUControl
+-- Compiling architecture Behavioral of ALUControl
+
+} {} {}} /h/tlight01/EE126/labs/lab6/pc.vhd {1 {vcom -work work -2008 -explicit -vopt -stats=none /h/tlight01/EE126/labs/lab6/pc.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity PC
+-- Compiling architecture Behavioral of PC
+
+} {} {}} /h/tlight01/EE126/labs/lab6/shiftleft2.vhd {1 {vcom -work work -2008 -explicit -vopt -stats=none /h/tlight01/EE126/labs/lab6/shiftleft2.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity ShiftLeft2
+-- Compiling architecture Behavioral of ShiftLeft2
+
+} {} {}} /h/tlight01/EE126/labs/lab6/mux64.vhd {1 {vcom -work work -2008 -explicit -vopt -stats=none /h/tlight01/EE126/labs/lab6/mux64.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity MUX64
+-- Compiling architecture Behavioral of MUX64
+
+} {} {}} /h/tlight01/EE126/labs/lab6/id_ex_reg.vhd {1 {vcom -work work -2008 -explicit -vopt -stats=none /h/tlight01/EE126/labs/lab6/id_ex_reg.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity id_ex_reg
+-- Compiling architecture behaveioral of id_ex_reg
+
+} {} {}} /h/tlight01/EE126/labs/lab6/rca.vhd {1 {vcom -work work -2008 -explicit -vopt -stats=none /h/tlight01/EE126/labs/lab6/rca.vhd
+QuestaSim-64 vcom 10.7c Compiler 2018.08 Aug 17 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity RCA
+-- Compiling architecture Behavioral of RCA
+
+} {} {}}
